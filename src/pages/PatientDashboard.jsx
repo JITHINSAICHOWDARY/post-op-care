@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { auth, db } from '../firebase';
 import { onAuthStateChanged } from 'firebase/auth';
 import { collection, onSnapshot } from 'firebase/firestore';
-import ChatWidget from '../components/ChatWidget'; // The new chat widget
+import ChatWidget from '../components/ChatWindow'; // The new chat widget
 
 export default function PatientDashboard() {
   const [patientName, setPatientName] = useState("Loading...");

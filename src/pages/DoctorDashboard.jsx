@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { db } from '../firebase'; 
 import { collection, onSnapshot, addDoc, serverTimestamp } from 'firebase/firestore';
-import ChatWidget from '../components/ChatWidget'; // The new chat widget
+import ChatWidget from '../components/ChatWindow'; // The new chat widget
 
 export default function DoctorDashboard() {
   // Hardcoded to "Doctor" to avoid Firebase Auth conflicts during the demo
