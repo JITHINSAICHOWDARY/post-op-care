@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon Pepper Grilled Chicken",
+    "cuisine": "American",
+    "spiceLevel": "Low",
+    "tags": ["Diabetic-Friendly", "Low-Sodium"]
+  },
+  {
+    "id": 2,
+    "name": "Spicy Lentil & Spinach Dal",
+    "cuisine": "Indian",
+    "spiceLevel": "High",
+    "tags": ["Diabetic-Friendly", "Low-Sodium", "Vegetarian"]
+  },
+  {
+    "id": 3,
+    "name": "Garlic Butter Salmon",
+    "cuisine": "Mediterranean",
+    "spiceLevel": "Low",
+    "tags": ["Low-Carb", "Keto"]
+  },
+  {
+    "id": 4,
+    "name": "Zesty Tofu Stir-fry",
+    "cuisine": "Asian",
+    "spiceLevel": "Medium",
+    "tags": ["Vegetarian", "Diabetic-Friendly", "Low-Sodium"]
+  },
+  {
+    "id": 5,
+    "name": "Sweet Potato Black Bean Bowl",
+    "cuisine": "Mexican",
+    "spiceLevel": "Medium",
+    "tags": ["High-Fiber", "Vegetarian"]
+  }
+]
